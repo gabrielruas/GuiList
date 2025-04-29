@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ba58724a.js",
+    "static/js/124.4d8430b3.js": "/static/js/124.4d8430b3.js",
+    "static/media/produto-pizza.png": "/static/media/produto-pizza.66874f7d6abeff1d6e56.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/empty.png": "/static/media/empty.7d4d9fc16455d0013663.png",
+    "static/media/logo.png": "/static/media/logo.085187d9b327d9defa34.png",
+    "static/media/back2.png": "/static/media/back2.8c5c8754f594c06ff72b.png",
+    "static/media/favorito-full2.png": "/static/media/favorito-full2.a40280d2848ee0da8889.png",
+    "index.html": "/index.html",
+    "static/media/mais.png": "/static/media/mais.7a33d8e1cbda72fb2963.png",
+    "static/media/menos.png": "/static/media/menos.a53e980ee7b1b8f69569.png",
+    "static/media/favorito.png": "/static/media/favorito.915d329d223a3b2d8e83.png",
+    "static/media/endereco.png": "/static/media/endereco.7f29d8af7fede2eabe35.png",
+    "static/media/logout.png": "/static/media/logout.070f1770144221cdd7fb.png",
+    "favicon-32.png": "/favicon-32.png",
+    "static/media/aba-perfil.png": "/static/media/aba-perfil.3f218020c27763cb56a2.png",
+    "static/media/cart.png": "/static/media/cart.546fda60aa2183daaa63.png",
+    "static/media/aba-favorito.png": "/static/media/aba-favorito.b6cb1ef018939130b3b2.png",
+    "static/media/aba-pedidos.png": "/static/media/aba-pedidos.c430508e7b524e43fd5d.png",
+    "static/media/meus-dados.png": "/static/media/meus-dados.dd074deca14df97d37e2.png",
+    "static/media/delete.png": "/static/media/delete.dd8ff2b3183249081baa.png",
+    "static/media/location.png": "/static/media/location.5bba99a0b4165cd34c12.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.ba58724a.js.map": "/static/js/main.ba58724a.js.map",
+    "124.4d8430b3.js.map": "/static/js/124.4d8430b3.js.map"
+  },
+  "entrypoints": [
+    "static/js/124.4d8430b3.js",
+    "static/js/main.ba58724a.js"
+  ]
+}
